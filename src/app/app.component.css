@@ -1,0 +1,10 @@
+div.container {
+    text-align: left;
+    width: 970px;
+    margin: 10px;
+    padding: 25px;
+}
+table thead th {
+    text-align: left;
+    padding-right: 50px;
+}
